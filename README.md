@@ -5,3 +5,4 @@
 - [2、迭代器（iterators）](https://blog.csdn.net/Revendell/article/details/109564051)<br>
 - [3、容器（vector）](https://blog.csdn.net/Revendell/article/details/109587533)<br>
 - [4、双向链表（list）](https://blog.csdn.net/Revendell/article/details/109609380)<br>
+- [5、双向队列（deque）](https://blog.csdn.net/Revendell/article/details/109750725)<br>
