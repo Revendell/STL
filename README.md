@@ -7,3 +7,4 @@
 - [4、双向链表（list）](https://blog.csdn.net/Revendell/article/details/109609380)<br>
 - [5、双向队列（deque）](https://blog.csdn.net/Revendell/article/details/109750725)<br>
 - [6、栈（stack）](https://blog.csdn.net/Revendell/article/details/109786075)<br>
+- [7、队列（queue）](https://blog.csdn.net/Revendell/article/details/109786409)<br>
