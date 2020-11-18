@@ -9,3 +9,4 @@
 - [6、栈（stack）](https://blog.csdn.net/Revendell/article/details/109786075)<br>
 - [7、队列（queue）](https://blog.csdn.net/Revendell/article/details/109786409)<br>
 - [8、堆（heap）](https://blog.csdn.net/Revendell/article/details/109787678)<br>
+- [9、优先队列（priority_queue）](https://blog.csdn.net/Revendell/article/details/109791863)<br>
