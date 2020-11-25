@@ -15,3 +15,4 @@
 - [12、set&map](https://blog.csdn.net/Revendell/article/details/110008886)<br>
 - [13、hashtable](https://blog.csdn.net/Revendell/article/details/110009858)<br>
 - [14、hash_set&hash_map](https://blog.csdn.net/Revendell/article/details/110100667)<br>
+- [15、数值算法（numeric）](https://blog.csdn.net/Revendell/article/details/110148346)<br>
