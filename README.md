@@ -17,3 +17,4 @@
 - [14、hash_set&hash_map](https://blog.csdn.net/Revendell/article/details/110100667)<br>
 - [15、数值算法（numeric）](https://blog.csdn.net/Revendell/article/details/110148346)<br>
 - [16、基本算法（algobase）](https://blog.csdn.net/Revendell/article/details/110150544)<br>
+- [17、set相关算法](https://blog.csdn.net/Revendell/article/details/110203524)<br>
