@@ -20,3 +20,4 @@
 - [17、set相关算法](https://blog.csdn.net/Revendell/article/details/110203524)<br>
 - [18、其他算法（algo）——单纯的数据处理](https://blog.csdn.net/Revendell/article/details/110249699)<br>
 - [19、其他算法（algo）——复杂的算法](https://blog.csdn.net/Revendell/article/details/110680915)<br>
+- [20、仿函数（functors）](https://blog.csdn.net/Revendell/article/details/110737750)<br>
